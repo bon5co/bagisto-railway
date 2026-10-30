@@ -1,5 +1,9 @@
 # bagisto-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/bagisto-or-just-updated-shopify-alternat?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Bagisto template](https://railway.com/deploy/bagisto-or-just-updated-shopify-alternat?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [Bagisto](https://bagisto.com) 2.4.3 on Railway.
 
 Upstream's `webkul/bagisto` image is pinned by digest. The wrapper adds four things
